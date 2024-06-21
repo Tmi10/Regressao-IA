@@ -8,4 +8,4 @@ DESENVOLVER E SELECIONAR O MELHOR ALGORITMO DE MACHINE LEARNING DE REGRESSÃO LI
 - Regressão com LIGHT GBM (x)
 - Regressão com CATBOOST (x)
 
-De acordo com os resultados abaixo o algoritmo que obteve o melhor desempenho foi a Regressão com LIGHT GBM com 85.75 %
+De acordo com os resultados dos algoritmos de Regressão desenvolvidos o melhor desempenho foi a Regressão com LIGHT GBM com 85.75 %
